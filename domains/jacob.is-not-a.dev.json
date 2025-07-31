@@ -1,0 +1,16 @@
+{
+    "description": "404 Description Not Found",
+    "domain": "is-not-a.dev",
+    "subdomain": "hexon",
+
+    "owner": {
+        "repo": "https://github.com/jacobrdale/.com",
+        "email": "hexon404@stuffs.me"
+    },
+
+    "record": {
+        "CNAME": "hexon404.onrender.com",
+    },
+
+    "proxied": false
+}
